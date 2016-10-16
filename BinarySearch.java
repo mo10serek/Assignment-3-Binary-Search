@@ -90,7 +90,7 @@ public class BinarySearch {
 		for (int counter = 0; counter < numberList.length; counter++){
 			
 			numberList[counter] = (int)(Math.random()*250 + 1);
-			System.out.println(numberList[counter]); //for debugging, remove later
+			//System.out.println(numberList[counter]); //for debugging, remove later
 			
 		}
 		
